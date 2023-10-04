@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @negutierrez9
+- 👋 Hi, I’m Nicole Gutierrez!
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning JS, CSS, and HTML. 
 - 📫 How to reach me: negutierrez9@gmail.com
